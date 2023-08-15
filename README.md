@@ -10,7 +10,7 @@ Bu proje, C programlama dilinde özelleştirilmiş bir kütüphane oluşturmayı
 
 ## Ayağa Kaldırma Adımları
 
-1. Öncelikle projenin ([](https://github.com/bkarlida/LIBFT.git)) kaynak kodlarını indirin.
+1. Öncelikle projenin kaynak kodlarını indirin.
 
 2. İndirdiğiniz kaynak kodlarını bir dizine çıkarın.
 
