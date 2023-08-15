@@ -1,4 +1,4 @@
-# libft
+# LIBFT
 
 "libft" projesi, 42 School (Ecole 42) öğrencilerine verilen bir projedir. Bu proje, C programlama dilinde özelleştirilmiş bir kütüphane oluşturmayı amaçlar. Bu kütüphane, standart C kütüphane işlevlerini ve kullanışlı ek işlevleri içerir. Projenin amacı, C programlama ve kütüphane tasarımı konusunda öğrencilere daha derinlemesine bir anlayış kazandırmaktır.
 
