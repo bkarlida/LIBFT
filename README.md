@@ -1,12 +1,12 @@
 # LIBFT
 
-"libft" projesi, 42 School (Ecole 42) öğrencilerine verilen bir projedir. Bu proje, C programlama dilinde özelleştirilmiş bir kütüphane oluşturmayı amaçlar. Bu kütüphane, standart C kütüphane işlevlerini ve kullanışlı ek işlevleri içerir. Projenin amacı, C programlama ve kütüphane tasarımı konusunda öğrencilere daha derinlemesine bir anlayış kazandırmaktır.
+Bu proje, C programlama dilinde özelleştirilmiş bir kütüphane oluşturmayı amaçlar. Bu kütüphane, standart C kütüphane işlevlerini ve kullanışlı ek işlevleri içerir. Projenin amacı, C programlama ve kütüphane tasarımı konusunda  daha derinlemesine bir anlayış kazandırmaktır.
 
 ## Proje Açıklaması
 
 - "libft" projesi, "libft.h" başlık dosyasını ve "libft.a" kütüphane dosyasını içerir.
 - Proje, C dilinde yazılmış farklı işlevleri içerir: bellek işlemleri, karakter işlemleri, string işlemleri, liste işlemleri vb.
-- Kendi yazdığınız kütüphaneyi kullanarak C projelerinizde işlerinizi kolaylaştırabilirsiniz.
+- Kendi yazdığımız kütüphaneyi kullanarak C projelerinizde işlerinizi kolaylaştırabilirsiniz.
 
 ## Ayağa Kaldırma Adımları
 
